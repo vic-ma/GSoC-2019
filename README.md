@@ -8,4 +8,4 @@ For my GSoC project, I wrote a plugin programming guide with example plugins, fo
 
 [Pull Request](https://github.com/balabit/syslog-ng-gitbook/pull/68) (in progress)
 
-[Project Listing](https://summerofcode.withgoogle.com/projects/#4872105198354432)
+[Project Listing](https://summerofcode.withgoogle.com/archive/2019/projects/6019431409385472/)
