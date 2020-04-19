@@ -7,5 +7,3 @@ For my GSoC project, I wrote a plugin programming guide with example plugins, fo
 [My Guide](https://github.com/vic-ma/syslog-ng-gitbook/tree/add-chapter-7/chapters/chapter_7)
 
 [Pull Request](https://github.com/balabit/syslog-ng-gitbook/pull/68) (in progress)
-
-[Project Listing](https://summerofcode.withgoogle.com/archive/2019/projects/6019431409385472/)
