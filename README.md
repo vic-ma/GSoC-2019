@@ -1,6 +1,6 @@
 # Google Summer of Code 2019
 
-For my GSoC project, I wrote a plugin programming guide with example plugins, for [syslog-ng](https://github.com/syslog-ng/syslog-ng).
+For my GSoC project, I wrote a plugin programming guide for [syslog-ng](https://github.com/syslog-ng/syslog-ng).
 
 ## Links
 
